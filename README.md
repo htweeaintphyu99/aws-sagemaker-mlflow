@@ -22,6 +22,5 @@ This project demonstrates a complete machine learning workflow using Amazon Sage
      - Filter out low-confidence predictions.
 6. Step Function
    - Compose the Lambda functions into a Step Function to automate the workflow.
-     ![](/stepfunction.png)
 7. Monitoring and Visualization
    - Use Model Monitor to track model performance, extract data from S3, and visualize the outputs.
